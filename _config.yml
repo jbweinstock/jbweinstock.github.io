@@ -128,7 +128,10 @@ author:
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
-      url: "mailto:jweinstock@whoi.edu"
+      #url: "mailto:jweinstock@whoi.edu"
+    - label: "CV"
+      icon: "fab fa-fw fa-file-pdf"
+      #url: ""
 
 # Site Footer
 footer:
@@ -144,7 +147,7 @@ footer:
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
-      url: "mailto:jweinstock@whoi.edu"
+      #url: "mailto:jweinstock@whoi.edu"
     - label: "CV"
       icon: "fab fa-fw fa-file-pdf"
       #url: ""
