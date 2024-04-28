@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jane B. Weinstock"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jane B. Weinstock"
+name                     : "Jane (she/her)"
 description              : "PhD Candidate in Biological Oceanography"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Biological Oceanography"
   location         : "Falmouth, MA, USA"
-  email            : jweintsock@whoi.edu
+  email            : jweinstock@whoi.edu
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
