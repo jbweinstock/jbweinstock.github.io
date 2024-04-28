@@ -128,7 +128,7 @@ author:
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
-      url: "mailto:jweinstock@whoi.edu">jweinstock@whoi.edu</a>
+      url: "mailto:jweinstock@whoi.edu"
 
 # Site Footer
 footer:
