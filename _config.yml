@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Jane (she/her)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Jane.jpg" # path of avatar image, e.g. "/assets/images/Jane.jpg"
   bio              : "PhD Candidate in Biological Oceanography"
   location         : "Falmouth, MA, USA"
   email            : jweinstock@whoi.edu
@@ -126,9 +126,12 @@ author:
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
-      #url: "mailto:jweinstock@whoi.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      #url: "https://www.linkedin.com/in/jane-weinstock-65935260/"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      #url: "https://orcid.org/0000-0003-1987-5571"
     - label: "CV"
       icon: "fab fa-fw fa-file-pdf"
       #url: ""
