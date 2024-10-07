@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Jane (she/her)"
-  avatar           : "/assets/images/Jane.jpg" # path of avatar image, e.g. "/assets/images/Jane.jpg"
+  avatar           : "/assets/images/Jane_contrast.jpg" # path of avatar image, e.g. "/assets/images/Jane.jpg"
   bio              : "PhD Candidate in Biological Oceanography"
   location         : "Falmouth, MA, USA"
   email            : jweinstock@whoi.edu
