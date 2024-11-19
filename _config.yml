@@ -128,6 +128,7 @@ author:
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
+      color: "#3e3e3e"
       url: "https://www.linkedin.com/in/jane-weinstock-65935260/"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
