@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Jane_Weinstock"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/jane-weinstock-65935260/"
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
