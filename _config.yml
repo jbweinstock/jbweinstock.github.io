@@ -20,7 +20,7 @@ title                    : "Jane B. Weinstock"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jane (she/her)"
-description              : "PhD Candidate in Biological Oceanography"
+description              : "Postdoctoral Investigator, Woods Hole Oceanographic Institution"
 url                      : "https://jbweinstock.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "Jane (she/her)"
   avatar           : "/assets/images/Jane_contrast.jpg" # path of avatar image, e.g. "/assets/images/Jane.jpg"
-  bio              : "PhD Candidate in Biological Oceanography"
+  bio              : "Postdoctoral Investigator, Woods Hole Oceanographic Institution"
   location         : "Falmouth, MA, USA"
   email            : jweinstock@whoi.edu
   links:
