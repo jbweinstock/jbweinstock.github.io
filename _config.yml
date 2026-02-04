@@ -113,8 +113,8 @@ analytics:
 author:
   name             : "Jane (she/her)"
   avatar           : "/assets/images/Jane_contrast.jpg" # path of avatar image, e.g. "/assets/images/Jane.jpg"
-  bio              : "Postdoctoral Investigator, Woods Hole Oceanographic Institution"
-  location         : "Falmouth, MA, USA"
+  bio              : "Postdoctoral Researcher, Alfred Wegener Institute"
+  location         : "Helgoland, Germany"
   email            : jweinstock@whoi.edu
   links:
     - label: "GitHub"
